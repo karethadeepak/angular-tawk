@@ -1,0 +1,21 @@
+{
+  "name": "angular-tawk",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/angular-tawk.umd.js",
+  "module": "fesm5/angular-tawk.js",
+  "es2015": "fesm2015/angular-tawk.js",
+  "esm5": "esm5/angular-tawk.js",
+  "esm2015": "esm2015/angular-tawk.js",
+  "fesm5": "fesm5/angular-tawk.js",
+  "fesm2015": "fesm2015/angular-tawk.js",
+  "typings": "angular-tawk.d.ts",
+  "metadata": "angular-tawk.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
