@@ -5,6 +5,10 @@
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karethadeepak/angular-tawk.git"
+  },
   "main": "bundles/angular-tawk.umd.js",
   "module": "fesm5/angular-tawk.js",
   "es2015": "fesm2015/angular-tawk.js",
